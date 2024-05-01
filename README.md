@@ -1,4 +1,14 @@
-# Vigenere-Cipher
-implementation of vigenere encryption, decryption, and attack to cipherText of vigenere
+---
+description: This is University Project
+---
 
-Just for test
+# Vigenere-Cipher
+
+Implementation of the Vigenere encryption, decryption, and attack to cipherText of it.
+
+| Test 1 | Test 2 | Test 3 |
+| :----: | :----: | :----: |
+|    1   |    2   |    3   |
+|    a   |    b   |    c   |
+|    I   |   II   |   III  |
+
